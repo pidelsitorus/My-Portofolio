@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: #212121;
-  font-size: 2.8em;
+  font-size: 2.3em;
   margin: 24px 0;
 }
 
@@ -120,7 +120,7 @@ b, strong {
 }
 
 .animated-item {
-  font-size: 38px;
+  font-size: 33px;
   line-height: inherit;
   display: block;
   opacity: 0;
